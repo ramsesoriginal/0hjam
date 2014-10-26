@@ -61,6 +61,11 @@
      <Compile Include="Assets\ProFlares\Scripts\ProFlare.cs" />
      <Compile Include="Assets\ProFlares\Scripts\ProFlareAtlas.cs" />
      <Compile Include="Assets\ProFlares\Scripts\ProFlareBatch.cs" />
+     <Compile Include="Assets\Scripts\BallCreator.cs" />
+     <Compile Include="Assets\Scripts\Ballremover.cs" />
+     <Compile Include="Assets\Scripts\CreategameStarter.cs" />
+     <Compile Include="Assets\Scripts\LooseGame.cs" />
+     <Compile Include="Assets\Scripts\MoveCube.cs" />
      <Compile Include="Assets\Scripts\StartGame.cs" />
      <Compile Include="Assets\Sonic Ether\Natural Bloom\Demo Scene\Scripts\SENBDLCameraAnimation.cs" />
      <Compile Include="Assets\Sonic Ether\Natural Bloom\Demo Scene\Scripts\SENBDLGlobal.cs" />
