@@ -1,4 +1,4 @@
-0hjame
+0h jam / 0h Game
 ======
 
 I participated in the 0h jam (http://0hgame.eu/). It took me more then 0h to make the game, so I guess I failed.
