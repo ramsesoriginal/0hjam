@@ -1,6 +1,8 @@
 0h jam / 0h Game
 ======
 
+![Screenshot for the game](https://raw.githubusercontent.com/ramsesoriginal/0hjam/master/Screenshot.PNG)
+
 I participated in the 0h jam (http://0hgame.eu/). It took me more then 0h to make the game, (I started at 2am, and finished at 2:20am ca.) so I guess I failed.
 
 But it is my first game jam game, and I finished it, so I consider it a personal success!
