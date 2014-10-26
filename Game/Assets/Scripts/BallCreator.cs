@@ -11,6 +11,7 @@ public class BallCreator : MonoBehaviour {
 	
 	void Start() {
 		resetScore ();
+		HighScore = PlayerPrefs.GetInt("highscore", 0);
 	}
 
 	public void BallColided() {
@@ -19,6 +20,7 @@ public class BallCreator : MonoBehaviour {
 		Score++;
 		if (Score > HighScore) {
 			HighScore = Score;
+			PlayerPrefs.SetInt("highscore", HighScore);
 		}
 		Debug.Log (Score);
 		Instantiate(ball,new Vector3(Random.Range(-1, 1) * 2,4,Random.Range(-1, 1) * 2),new Quaternion());

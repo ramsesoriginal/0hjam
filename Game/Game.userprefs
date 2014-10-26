@@ -1,12 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BallCreator.cs">
     <Files>
-      <File FileName="Assets\Scripts\StartGame.cs" Line="12" Column="54" />
-      <File FileName="Assets\Scripts\CreategameStarter.cs" Line="7" Column="9" />
-      <File FileName="Assets\Scripts\MoveCube.cs" Line="15" Column="36" />
-      <File FileName="Assets\Scripts\Ballremover.cs" Line="14" Column="19" />
-      <File FileName="Assets\Scripts\BallCreator.cs" Line="29" Column="2" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="4" Column="23" />
+      <File FileName="Assets\Scripts\CreategameStarter.cs" Line="16" Column="90" />
+      <File FileName="Assets\Scripts\MoveCube.cs" Line="21" Column="10" />
+      <File FileName="Assets\Scripts\Ballremover.cs" Line="14" Column="43" />
+      <File FileName="Assets\Scripts\BallCreator.cs" Line="22" Column="15" />
+      <File FileName="Assets\Scripts\LooseGame.cs" Line="8" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -3,7 +3,11 @@ using System.Collections;
 
 public class MoveCube : MonoBehaviour {
 
-	
+	void Start() {
+		if (GameObject.FindGameObjectWithTag ("GameController")== null)
+			Application.LoadLevel("startup scene");
+	}
+
 	// Update is called once per frame
 	void Update () {
 		var p = Input.GetAxis ("Horizontal");
