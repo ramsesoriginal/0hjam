@@ -1,4 +1,4 @@
-0h jam / 0h Game
+0h jam / 0h Game / Falling Balls
 ======
 
 ![Screenshot for the game](https://raw.githubusercontent.com/ramsesoriginal/0hjam/master/Screenshot.PNG)
