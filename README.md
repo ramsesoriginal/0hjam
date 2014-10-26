@@ -1,7 +1,7 @@
 0h jam / 0h Game
 ======
 
-I participated in the 0h jam (http://0hgame.eu/). It took me more then 0h to make the game, so I guess I failed.
+I participated in the 0h jam (http://0hgame.eu/). It took me more then 0h to make the game, (I started at 2am, and finished at 2:20am ca.) so I guess I failed.
 
 But it is my first game jam game, and I finished it, so I consider it a personal success!
 
