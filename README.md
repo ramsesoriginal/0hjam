@@ -7,6 +7,12 @@ I participated in the 0h jam (http://0hgame.eu/). It took me more then 0h to mak
 
 But it is my first game jam game, and I finished it, so I consider it a personal success!
 
+Download the game here:
+
+   * Linux: https://github.com/ramsesoriginal/0hjam/raw/master/Builds/Linux.zip
+   * Windows: https://github.com/ramsesoriginal/0hjam/raw/master/Builds/Windows.zip
+   * MacOsX: https://github.com/ramsesoriginal/0hjam/raw/master/Builds/MacOsX.zip
+
 The reasons why it took so long:
 
    * My Unity License Expirer, had to get that to work
